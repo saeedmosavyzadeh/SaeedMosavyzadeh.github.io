@@ -19,7 +19,7 @@ plugins:
 
 # Custom vars
 version: 1.1.0
-google_analytics_id: G-YH1EYQLCJM
+google_analytics_id:
 
 # for posting new
 future: true

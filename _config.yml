@@ -1,24 +1,24 @@
 # Setup
-title:               KorGunnlind
-tagline:             'Exploring the World'
-description:         '작은 것이라도 나누고 싶은 마음이 큰 생각을 만드는 길이라고 믿습니다. <a href="https://twitter.com/KorGunnlind" target="_blank">@KorGunnlind</a>.'
-url:                 "https://KorGunnlind.github.io/"
-baseurl:             ""
-paginate:            5
-permalink:           pretty
+title: Saeed Mosavyzadeh
+tagline: "Exploring the World"
+description: 'main as <a href="https://saeedmosavyzadeh.ir" target="_blank">saeedmosavyzadeh.ir</a>.'
+url: "https://saeedmosavyzadeh.github.io"
+baseurl: ""
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              JaeHee Pyo
-  url:               
-  email:             kortjaehee@gmail.com
+  name: Saeed Mosavyzadeh
+  url:
+  email: contact@saeedmosavyzadeh.ir
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 google_analytics_id: #UA-XXXX-Y
 
 # for posting new

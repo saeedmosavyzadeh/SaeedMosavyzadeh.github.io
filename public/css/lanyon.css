@@ -68,10 +68,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .icon{
-margin-right: 5px;
-margin-left: 5px;
 cursor: pointer;
 transition-duration: .3s;
+}
+
+.icons {
+display: flex;
+justify-content: center;
+margin-right: 5px;
+margin-left: 5px;
 }
 
 .telegram:hover {

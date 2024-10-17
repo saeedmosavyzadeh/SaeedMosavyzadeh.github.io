@@ -76,8 +76,7 @@ transition-duration: .3s;
 display: flex !important;
 justify-content: space-around;
 align-items: center;
-margin-right: 5px;
-margin-left: 5px;
+margin-bottom: -5.5px;
 }
 
 .telegram:hover {

@@ -73,8 +73,9 @@ transition-duration: .3s;
 }
 
 .icons {
-display: flex;
-justify-content: center;
+display: flex !important;
+justify-content: space-around;
+align-items: center;
 margin-right: 5px;
 margin-left: 5px;
 }

@@ -1,7 +1,7 @@
 # Setup
 title: Saeed Mosavyzadeh
-tagline: "Exploring the World"
-description: 'main as <a href="https://saeedmosavyzadeh.ir" target="_blank">saeedmosavyzadeh.ir</a>.'
+tagline: "Full Stack Developer"
+description: 'Saeed Mosavyzadeh'
 url: "https://github.saeedmosavyzadeh.ir"
 baseurl: ""
 paginate: 5
@@ -10,7 +10,7 @@ permalink: pretty
 # About/contact
 author:
   name: Saeed Mosavyzadeh
-  url:
+  url: saeedmosavyzadeh.ir
   email: contact@saeedmosavyzadeh.ir
 
 # Gems

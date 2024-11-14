@@ -67,33 +67,6 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
-.icon{
-cursor: pointer;
-transition-duration: .3s;
-}
-
-.icons {
-display: flex !important;
-justify-content: space-around;
-align-items: center;
-margin-bottom: -5.5px;
-}
-
-.telegram:hover {
-color: #229ED9;
-}
-
-.instagram:hover {
-color: #E4405F;
-}
-
-.phone:hover {
-color: #34A853;	
-}
-
-.mail:hover {
-color: #FBBC04;
-}
 
 /*
  * Container

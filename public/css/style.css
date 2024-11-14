@@ -1,0 +1,47 @@
+.repositories {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.btn-left {
+  border-radius: 0;
+  border-bottom-left-radius: 0.375rem;
+}
+
+.btn-right {
+  border-radius: 0;
+  border-bottom-right-radius: 0.375rem;
+}
+
+.icons {
+display: flex !important;
+justify-content: space-around;
+align-items: center;
+margin-bottom: -5.5px;
+}
+
+.icon{
+cursor: pointer;
+transition-duration: .3s;
+}
+
+.telegram:hover {
+color: #229ED9;
+}
+
+.instagram:hover {
+color: #E4405F;
+}
+
+.phone:hover {
+color: #34A853;	
+}
+
+.mail:hover {
+color: #FBBC04;
+}
+
+@media only screen and (max-width: 767px) {
+  .repositories {
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+}

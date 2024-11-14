@@ -1,5 +1,5 @@
 .repositories {
-  display: grid;
+  display: grid !important;
   gap: 0.5rem;
   justify-content: center;
   grid-template-columns: repeat(2, 1fr);

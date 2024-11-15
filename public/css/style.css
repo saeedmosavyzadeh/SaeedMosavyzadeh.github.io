@@ -7,7 +7,6 @@
 }
 
 .repocard {
-    padding: 1rem;    
     position: relative;
     display: flex;
     flex-direction: column;
@@ -21,16 +20,16 @@
 }
 
 .repocardbody {
-padding: 16px;
+  padding: 36px;
 }
 
 .rowtitlebadge {
     display: flex;
     flex-wrap: wrap;
+    padding: 20px 20px 25px 20px;    
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
-    padding-bottom: .25rem;
 }
 
 .repocardtitle {
@@ -45,11 +44,11 @@ padding: 16px;
 }
 
 .repocardbadgebox {
-    align-items: center;
+  align-items: center;
   justify-content: flex-end;
   display: flex;
   flex: 0 0 auto;
-    width: 16.66666667%;
+  width: 16.66666667%;
 }
 
 .repocardbadge {
@@ -80,8 +79,7 @@ padding: 16px;
 }
 
 .repocardfooter {
-border-top: 1px solid rgba(0, 0, 0, 0.175);
-  padding: 0 -20px -20px -20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.175);
 }
 
 .btn-middle {  

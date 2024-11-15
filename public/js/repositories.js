@@ -55,7 +55,6 @@ function generateTemplate(repo) {
   makeupDateFormat(repo.updated_at);
   makeDescription(repo.description);
   makeRepoLang(repo.language);
-
   return [
     "<div class='repocard'>",
     "<div class='repocardcontent'>",

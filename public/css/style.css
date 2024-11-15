@@ -20,13 +20,12 @@
 }
 
 .repocardbody {
-  padding: 36px;
+  padding: 16px;
 }
 
 .rowtitlebadge {
     display: flex;
     flex-wrap: wrap;
-    padding: 20px 20px 25px 20px;    
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;

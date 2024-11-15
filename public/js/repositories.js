@@ -67,11 +67,9 @@ function generateTemplate(repo) {
       "</div>",
       "<div class='repocardbody'>",
     "<div class='card-text'>" + metaData["Description"] + "</div>",
-
     "<div class='repocardsubtitle'>" +
       metaData["upDate"] +
       "</div>",
-
     "</div>",
     "</div>",
     "<div class='repocardfooter'>",

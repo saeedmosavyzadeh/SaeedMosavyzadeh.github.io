@@ -77,8 +77,6 @@ function generateTemplate(repo) {
     metaData["Homepage"],
     "</div>",
     "</div>",
-        "</div>",
-
   ].join("");
 }
 

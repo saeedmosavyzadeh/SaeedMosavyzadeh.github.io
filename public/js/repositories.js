@@ -59,14 +59,13 @@ function generateTemplate(repo) {
 
   return [
     "<div class='repocard'>",
-    "<div class='repocardbody'>",
     "<div class='rowtitlebadge'>",
     "<div class='repocardtitle'>" + repo.name + "</div>",
     "<div class='repocardbadgebox'><span class='repocardbadge'>" +
       metaData["lang"] +
       "</span></div>",
-
-    "</div>",
+      "</div>",
+      "<div class='repocardbody'>",
     "<p class='card-text'>" + metaData["Description"] + "</p>",
 
     "<h6 class='card-subtitle text-body-secondary'>" +

@@ -108,12 +108,12 @@
     padding: 0.375rem 0.75rem;
 }
 
-.btn-middle :hover {
-   background-color: #424649;
+.btn-middle:hover {
+  background-color: #424649;
   border-color: #373b3e;
 }
 
-.btn-middle :active {
+.btn-middle:active {
   background-color: #4d5154;
   border-color: #373b3e;
 }

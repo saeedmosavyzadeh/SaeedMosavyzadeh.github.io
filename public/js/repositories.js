@@ -75,8 +75,7 @@ function generateTemplate(repo) {
     "</div>",
     "<div class='repocardfooter'>",
     metaData["Homepage"],
-      "</div>",
-
+    "</div>",
     "</div>",
   ].join("");
 }

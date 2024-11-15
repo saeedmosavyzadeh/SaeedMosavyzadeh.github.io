@@ -83,7 +83,10 @@
 
 .repocardfooter {
   border-top: 1px solid rgba(0, 0, 0, 0.175);
-  text-decoration: none !important;
+}
+
+.repocardfooter a {
+    text-decoration: none !important;
 }
 
 .btn-middle {  
@@ -93,7 +96,6 @@
     background-color: #212529;
     color: #fff;
     text-align: center;
-    text-decoration: none;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;

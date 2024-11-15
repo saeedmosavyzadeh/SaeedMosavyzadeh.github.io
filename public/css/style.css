@@ -20,6 +20,21 @@
 }
 
 .repocardtitle {
+    padding-bottom: .25rem;
+    display: flex;
+    flex: 0 0 auto;
+    width: 83.33333333%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.repocardbadgebox {
+    align-items: center;
+  justify-content: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+    width: 16.66666667%;
 }
 
 .btn-left {

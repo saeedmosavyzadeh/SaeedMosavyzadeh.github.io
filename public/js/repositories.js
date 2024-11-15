@@ -59,6 +59,7 @@ function generateTemplate(repo) {
 
   return [
     "<div class='repocard'>",
+    "<div class='repocardcontent'>",
     "<div class='rowtitlebadge'>",
     "<div class='repocardtitle'>" + repo.name + "</div>",
     "<div class='repocardbadgebox'><span class='repocardbadge'>" +
@@ -72,6 +73,7 @@ function generateTemplate(repo) {
       metaData["upDate"] +
       "</div>",
 
+    "</div>",
     "</div>",
     "<div class='repocardfooter'>",
     metaData["Homepage"],

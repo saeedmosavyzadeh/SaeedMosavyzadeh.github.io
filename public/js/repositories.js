@@ -58,7 +58,7 @@ function generateTemplate(repo) {
   makeRepoLang(repo.language);
 
   return [
-    "<div class='card'>",
+    "<div class='repocard'>",
     "<div class='card-body'>",
     "<div class='row'>",
     "<h5 class='card-title pb-1 col-10 text-truncate'>" + repo.name + "</h5>",

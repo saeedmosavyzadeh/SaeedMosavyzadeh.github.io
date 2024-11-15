@@ -125,10 +125,10 @@
 }
 
 .icons {
-display: flex !important;
-justify-content: space-around;
-align-items: center;
-margin-bottom: -5.5px;
+  display: flex !important;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: -5.5px;
 }
 
 .icon{

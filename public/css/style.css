@@ -10,7 +10,6 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    min-width: 0;
     color: #212529;
     word-wrap: break-word;
     background-color: #fff;

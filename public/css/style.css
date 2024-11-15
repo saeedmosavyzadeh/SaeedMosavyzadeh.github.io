@@ -22,9 +22,9 @@
 .rowtitlebadge {
     display: flex;
     flex-wrap: wrap;
-    margin-top: calc(-1* 0);
-    margin-right: calc(-.5* 1.5rem);
-    margin-left: calc(-.5* 1.5rem);
+    margin-top: 0;
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
 }
 
 .repocardtitle {

@@ -219,7 +219,7 @@ color: #34A853;
 color: #FBBC04;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 38em) {
   .repositories {
     grid-template-columns: repeat(1, 1fr) !important;
   }

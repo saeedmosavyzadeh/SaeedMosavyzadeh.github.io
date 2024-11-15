@@ -1,5 +1,4 @@
 const metaData = {};
-
 function makeDescription(desc) {
   if (desc) {
     metaData["Description"] = desc;

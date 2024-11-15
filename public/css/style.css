@@ -84,9 +84,11 @@ border-top: 1px solid rgba(0, 0, 0, 0.175);
 }
 
 .btn-middle {  
+    width: 100%;
     display: inline-block;
     padding: 0.375rem 0.75rem;
     line-height: 1.5;
+    background-color: #212529;
     color: #fff;
     text-align: center;
     text-decoration: none;
@@ -96,10 +98,8 @@ border-top: 1px solid rgba(0, 0, 0, 0.175);
     -moz-user-select: none;
     user-select: none;
     border: 1px solid #212529;
-    border-radius: 0 0.375rem 0.375rem 0;
-    background-color: #212529;
+    border-radius: 0 0 0.375rem 0.375rem;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-      width: 100%;
 }
 
 .btn-middle :hover {

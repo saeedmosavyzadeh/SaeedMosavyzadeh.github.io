@@ -85,7 +85,7 @@
   border-top: 1px solid rgba(0, 0, 0, 0.175);
 }
 
-.repocardfooter a {
+.repocardfooter a:hover {
     text-decoration: none !important;
 }
 
